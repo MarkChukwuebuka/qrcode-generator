@@ -1,1 +1,1 @@
-##This app generates QR codes that can be share via whatsapp and gmail
+# This app generates QR codes that can be shared on whatsapo and Gmail
